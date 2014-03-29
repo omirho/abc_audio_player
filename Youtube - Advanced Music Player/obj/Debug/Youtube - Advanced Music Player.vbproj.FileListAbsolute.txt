@@ -1,0 +1,30 @@
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\bin\Debug\Youtube - Advanced Music Player.exe
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\bin\Debug\Youtube - Advanced Music Player.pdb
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\bin\Debug\Youtube - Advanced Music Player.xml
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.vbproj.ResolveComReference.cache
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube___Advanced_Music_Player.Form1.resources
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube___Advanced_Music_Player.Resources.resources
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.vbproj.GenerateResource.Cache
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.exe
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.xml
+C:\Users\IvAn\AppData\Local\Temporary Projects\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.pdb
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.vbproj.ResolveComReference.cache
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\ABC Audio Player.exe.config
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\ABC Audio Player.exe
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\ABC Audio Player.pdb
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\ABC Audio Player.xml
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\ABC_Audio_Player.Form1.resources
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\ABC_Audio_Player.Resources.resources
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\Youtube - Advanced Music Player.vbproj.GenerateResource.Cache
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\ABC Audio Player.exe
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\ABC Audio Player.xml
+C:\Users\Pulkit\Downloads\Youtube - Advanced Music Player\Youtube - Advanced Music Player\Youtube - Advanced Music Player\obj\Debug\ABC Audio Player.pdb
